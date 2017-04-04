@@ -8,6 +8,5 @@ package animal.org;
 
     {
         System.out.println( "Hello World!" );
-return 1;
     }
 }
